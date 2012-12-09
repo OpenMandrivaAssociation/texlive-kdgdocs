@@ -62,3 +62,15 @@ the archive).
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.0-2
++ Revision: 752980
+- Rebuild to reduce used resources
+
+* Thu Nov 10 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.0-1
++ Revision: 729672
+- texlive-kdgdocs
+- texlive-kdgdocs
+
