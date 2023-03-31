@@ -1,6 +1,6 @@
 Name:		texlive-kdgdocs
 Version:	24498
-Release:	1
+Release:	2
 Summary:	Document classes for Karel de Grote University College
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kdgdocs
