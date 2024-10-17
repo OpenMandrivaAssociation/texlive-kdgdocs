@@ -3,7 +3,7 @@ Version:	24498
 Release:	2
 Summary:	Document classes for Karel de Grote University College
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kdgdocs
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/kdgdocs
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kdgdocs.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kdgdocs.doc.r%{version}.tar.xz
